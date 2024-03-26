@@ -10,8 +10,6 @@
   </a>
 </div>
 
-### 👋 Hello, IT World!
-
 🌟 **About Me:**
 I'm bursting with eagerness to dive into the IT industry! With a focus on **web development** and **QA (Quality Assurance)**, I'm on the lookout for opportunities to bring my dedication and hard work to the forefront. My goal? To become a dependable and valuable team member who contributes significantly to our successes.
 
