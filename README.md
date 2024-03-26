@@ -1,6 +1,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:62cff4,100:2c67f2&text=Hello,%20I%27m%20Rare%C8%99%F0%9F%91%8B&descAlign=50&descAlignY=50&textBg=false&reversal=false&section=footer&fontAlignY=60&fontColor=ffffff"/>
 </p>
+<p align="center">
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+</p>
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/bozarares/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
