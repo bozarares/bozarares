@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=timeGradient&text=Hello,%20I'm%20Rareș👋&descAlign=50&descAlignY=50&textBg=false"/>
+</p>
 
 <!--
 **bozarares/bozarares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
