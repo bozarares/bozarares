@@ -37,7 +37,8 @@ name: Rareș-Ionuț Boza
 located_in: Bucharest, RO
 from: Constanța, RO
 🎓 education: ["Master's in Computer Science (current)", "Master's in Nuclear Engineering", "Bachelor's in Power Engineering"]
-💼 past_experiences: 
+💼 work_experiences:
+  - ["Working Student - IT", "Siemens Energy", "Bucharest", "Aug 2024 - Current"]
   - ["Engineer", "PSE Electric Prest", "Romania", "Jan 2022 - Sep 2023"]
   - ["Intern", "Deloitte", "Bucharest", "Mar 2021 - May 2021"]
 
