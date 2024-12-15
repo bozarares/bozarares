@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:62cff4,100:2c67f2&text=Hello,%20I%27m%20Rare%C8%99%F0%9F%91%8B&descAlign=50&descAlignY=50&textBg=false&reversal=false&section=footer&fontAlignY=60&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:62cff4,100:2c67f2&text=Hello,%20I'm%20Rareș&descAlign=50&reversal=false&textBg=false&fontAlignY=50&descAlignY=56&fontColor=ffffff&descSize=32"/>
 </p>
 <p align="center">
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
